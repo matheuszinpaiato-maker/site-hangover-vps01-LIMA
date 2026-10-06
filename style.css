@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #d6d3cd;
-    color: #fff;
+    color: black;
 }
 
 nav {
@@ -11,7 +11,7 @@ nav {
     align-items: center;
     background-color: #55534e;
     padding: 15px 25px;
-    color: #fff;
+    color: black;
 }
 
 nav h1 {
@@ -117,7 +117,7 @@ footer {
 .descricao {
     max-width: 500px;
     margin: 30px 0;
-    color: #cfcfcf;
+    color: black;
     font-size: 17px;
 }
 
@@ -137,7 +137,7 @@ footer {
 
 .section-title h2 {
     font-size: 36px;
-    color: white;
+    color: black;
 }
 
 .obs{
