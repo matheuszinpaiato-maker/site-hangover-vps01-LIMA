@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #000;
+    background-color: #d6d3cd;
     color: #fff;
 }
 
@@ -9,7 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #000;
+    background-color: #55534e;
     padding: 15px 25px;
     color: #fff;
 }
@@ -35,7 +35,7 @@ nav a {
 }
 
 nav a:hover {
-    color: red;
+    color: #32312f;
 }
 
 .trailer {
@@ -99,7 +99,7 @@ nav a:hover {
 }
 
 .case {
-    color: red;
+    color: #32312f;
     margin: 0;
     font-size: 80px;
     line-height: 0.9;
@@ -109,7 +109,7 @@ nav a:hover {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: red;
+  background-color: #32312f;
   color: white;
   margin-top: 20px;
 }
@@ -131,7 +131,7 @@ footer {
 .section-title span {
     width: 5px;
     height: 35px;
-    background: red;
+    background: #32312f;
     border-radius: 10px;
 }
 
@@ -149,7 +149,7 @@ footer {
 .enviar{
     padding: 15px 30px;
     font-size: 18px;
-    background-color: red;
+    background-color: #32312f;
     color: white;
     border-radius: 10px;
 }
